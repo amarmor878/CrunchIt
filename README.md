@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+# CrunchIt!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto es una calculadora desarrollada con React, una popular biblioteca de JavaScript para la construcción de interfaces de usuario. La aplicación hace uso de las últimas características de React, como el hook useState, para gestionar el estado de la calculadora y el hook useEffect para actualizar la pantalla en función de las operaciones realizadas.
 
-## Available Scripts
+Además de React, la calculadora utiliza otras tecnologías como CSS para el diseño y la animación de los botones, y JavaScript para el manejo de las operaciones matemáticas.
 
-In the project directory, you can run:
+Este proyecto es un ejemplo práctico de cómo se puede utilizar React para crear una aplicación web con funcionalidades interactivas. Es una excelente manera de practicar tus habilidades en React y JavaScript, y también de experimentar con CSS para el diseño y la animación de interfaces de usuario.
 
-### `npm start`
+Si estás interesado en ver el código y probar la calculadora por ti mismo, puedes hacerlo en el siguiente enlace donde se encuentra alojado el proyecto.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+¡Puedes ver la calculadora en acción [aquí](https://main.d2vd4wsyb1qhya.amplifyapp.com/)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Tabla de contenidos
 
-### `npm test`
+- [Tecnologías utilizadas](#tecnologías-utilizadas)
+- [Cómo usar la calculadora](#cómo-usar-la-calculadora)
+- [Autor](#autor)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Tecnologías utilizadas
 
-### `npm run build`
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) [React](https://reactjs.org/)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white) [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Cómo usar la calculadora
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Clonar el repositorio: git clone `https://github.com/amarmor878/calculadora-react.git`
+2. Ir al directorio del proyecto: `cd calculadora-react`
+3. Instalar las dependencias: `npm install`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Autor
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [Amarmor878](https://github.com/amarmor878)
